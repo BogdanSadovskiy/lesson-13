@@ -3,7 +3,7 @@
 
 int main()
 {
-	// хід коня
+	
 	const int n = 5;
 	const int m = 5;
 
